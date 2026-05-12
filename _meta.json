@@ -1,0 +1,11 @@
+{
+  "url": "https://unicorn.studio",
+  "clonedAt": "2026-05-12T19:09:39.158Z",
+  "pages": [],
+  "errors": [
+    {
+      "pathname": "/",
+      "error": "Navigation timeout of 60000 ms exceeded"
+    }
+  ]
+}
